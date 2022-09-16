@@ -40,4 +40,4 @@ Here are some ideas to get you started:
   <a href="https://open.spotify.com/user/12155193406" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
   </div>
  
-   ![Snake animation](https://github.com/tomasfrc/tomasfrc)
+   ![Snake animation](https://github.com/tomasfrc/tomasfrc/blob/output/github-contribution-grid-snake.svg)
